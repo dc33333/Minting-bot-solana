@@ -1,6 +1,6 @@
-# MagiEden Minting Bot
+# MagicEden Minting Bot
 
-This bot will buy NFT faster than people, but it is not guaranteed that you will take your collection
+#This bot will buy NFT faster than people, but it is not guaranteed that you will take your collection
 
 ### You can launch multiple instances of the bot to bypass minting limit / wallet
 
