@@ -55,7 +55,7 @@
    
    or
    
-   `pip install webdriver-manager
+   `pip install webdriver-manager`
 
 ---
 
