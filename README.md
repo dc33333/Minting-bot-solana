@@ -27,11 +27,11 @@
 
 1. Clone the repository / Download zip file
 
-    `git clone https://github.com/SolanaNFTCollector/Solana-Minting-Bot.git`
+    `git clone https://github.com/SolanaMike/solana-mint-bot-me.git`
 
     OR
 
-    [Download Zip File](https://github.com/SolanaNFTCollector/Solana-Minting-Bot/archive/refs/heads/main.zip)
+    [Download Zip File](https://github.com/SolanaMike/solana-mint-bot-me/archive/refs/heads/main.zip)
 
 ---
 
@@ -52,6 +52,10 @@
    `python -m pip install git+https://github.com/np-8/webdriver_manager.git`
 
    (currently using this since the last webdriver manager main isn't working)
+   
+   or
+   
+   pip install webdriver-manager
 
 ---
 
@@ -67,7 +71,7 @@
 
 5. Open CMD and go to directory
 
-    `cd /path/to/directory/magiceden-mint-bot/windows`
+    `cd /path/to/directory/solana-mint-bot-me-main`
 
 ---
 
