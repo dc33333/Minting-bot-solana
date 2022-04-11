@@ -1,17 +1,14 @@
 # MagicEden Minting Bot
 
-# This bot will buy NFT faster than people, but it is not guaranteed that you will take your collection
-
-### You can launch multiple instances of the bot to bypass minting limit / wallet
+# This bot will help you buy NFTs the fastest, but does not guarantee a 100% purchase.
+This bot sends a request to the server magiceden.
+Make sure the time on your computer is set correctly.
 
 ### Support
 
 -   [x] Window
 -   [x] Mac (Intel + m1)
 -   [x] Linux
-
--   [x] MagicEden.io
--   [x] MonkeyLabs.io
 
 ---
 
@@ -61,11 +58,11 @@
 
 4. Replace Phantom Passphrase and password in `config.json`
 
-    `launchpadLink` --> Launchpad link on magic eden
+    `launchpadLink` --> Provide a link to the sale
 
-    `seedPhrase` --> your phantom wallet passphrase (Careful do not share this key)
+    `seedPhrase` --> Specify the passphrase wallet (Careful do not share this key)
 
-    `password` --> A password for your wallet
+    `password` --> Enter your wallet password
 
 ---
 
