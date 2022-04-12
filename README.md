@@ -26,11 +26,11 @@ You can support me with some SOL : BmgFSsNKAKPgpo9U8mKZJ8kgCmHdnKX31UkpTMJaE8YB
 
 1. Clone the repository / Download zip file
 
-    `git clone https://github.com/SolanaMike/solana-mint-bot-me.git`
+    `git clone https://github.com/SolanaMike/Minting-bot-solana.git`
 
     OR
 
-    [Download Zip File](https://github.com/SolanaMike/solana-mint-bot-me/archive/refs/heads/main.zip)
+    [Download Zip File](https://github.com/SolanaMike/Minting-bot-solana/archive/refs/heads/main.zip)
 
 ---
 
@@ -70,7 +70,7 @@ You can support me with some SOL : BmgFSsNKAKPgpo9U8mKZJ8kgCmHdnKX31UkpTMJaE8YB
 
 5. Open CMD and go to directory
 
-    `cd /path/to/directory/solana-mint-bot-me-main`
+    `cd /path/to/directory/Minting-bot-solana`
 
 ---
 
