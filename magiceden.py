@@ -1,7 +1,7 @@
 import requests 
 import base64
 import time
-import os
+import os 
 import pathlib
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
