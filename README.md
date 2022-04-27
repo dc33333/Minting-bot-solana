@@ -6,7 +6,7 @@ Make sure the time on your computer is set correctly.
 
 You can support me with some SOL : BmgFSsNKAKPgpo9U8mKZJ8kgCmHdnKX31UkpTMJaE8YB
 
-### Support
+### Support OS
 
 -   [x] Window
 -   [x] Mac (Intel + m1)
@@ -26,11 +26,11 @@ You can support me with some SOL : BmgFSsNKAKPgpo9U8mKZJ8kgCmHdnKX31UkpTMJaE8YB
 
 1. Clone the repository / Download zip file
 
-    `git clone https://github.com/SolanaMike/Minting-bot-solana.git`
+    `https://github.com/SolanaNFTHolder/Minting-bot-solana.git`
 
     OR
 
-    [Download Zip File](https://github.com/SolanaMike/Minting-bot-solana/archive/refs/heads/main.zip)
+    [Download Zip File](https://github.com/SolanaNFTHolder/Minting-bot-solana/archive/refs/heads/main.zip)
 
 ---
 
@@ -38,7 +38,7 @@ You can support me with some SOL : BmgFSsNKAKPgpo9U8mKZJ8kgCmHdnKX31UkpTMJaE8YB
 
 ---
 
-2. Open command prompt
+2. Open CMD (win+r) 
 
 ---
 
@@ -49,8 +49,6 @@ You can support me with some SOL : BmgFSsNKAKPgpo9U8mKZJ8kgCmHdnKX31UkpTMJaE8YB
    and
 
    `python -m pip install git+https://github.com/np-8/webdriver_manager.git`
-
-   (currently using this since the last webdriver manager main isn't working)
    
    or
    
